@@ -6,37 +6,41 @@
 
 ### 👋 關於我
 
-我是一名持續在朝 **前端工程師 + Data Visualization** 前進的小菜雞，  
-目前主要使用 **Vue 3** + **Vite** + **D3.js** + **Tailwind CSS** 為主，  
-也開始試著實作 **Node.js** + **Express** + **SQLite** 的小型後端服務。
+我是一名喜歡研究 **Data Visualization** 的前端小菜雞，  
+目前主要使用 **Vue 3** + **TypeScript** + **Tailwind CSS** 為主，  
+以及持續研究 **D3.js** 以及各式各樣的視覺化圖表，  
+也試著實作 **Node.js** + **Express** + **SQLite** 的小型後端服務來動態串資料。
 
-除此之外，我對攝影~~器材~~也稍有涉略，歡迎各位攝影同好來交流交流！
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,d3,vue,vite,pinia,git,github,tailwind,nodejs,python,r" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,vite,pinia,d3,bootstrap,git,github,nodejs,python,r" />
 </p>
 
 ---
 
 ### 🔭 目前在做什麼？
 
-- 持續 Vue 化 / 元件化重構 以前建立的個人網站 ⭐️
+- 持續 Vue 化 / Nuxt 化 / 元件化重構 以前建立的個人網站。
 
-- 維護並持續建設 **My Stock Map 投資可視化系統** 專案 ⭐️
+- 當社畜，為公司專案賣命。
 
-- 繼續自學 **前端技術 + 資料視覺化** 的結合
+- 維護並持續建設 **My Stock Map 投資可視化系統** 個人專案。 ⭐️
 
-- 經營個人 Podcast 節目
+- 研究如何用 **Slidev** 做投影片。
+
+- 繼續自學 **前端技術 + 資料視覺化** 的結合。
+
+<!-- - 經營個人 Podcast 節目 -->
 
 ---
 
 ### 💪 技能
 
 - **前端 & 工具 Front-end & Tools**
-  - HTML / CSS / JavaScript (ES6+)
+  - HTML / CSS / JavaScript (ES6+) / TypeScript
   - Vue.js (Vue 3 Composition API) / Vite / Pinia
   - D3.js / Leaflet.js
-  - Bootstrap / TailwindCSS
+  - TailwindCSS / Bootstrap
   - Git / GitHub / GitHub Pages
   - 部署：Railway（前端 + 後端）
   - AI 工具：ChatGPT / Gemini
@@ -51,10 +55,9 @@
   - Open Data + QGIS → 空間資料視覺化的主題地圖（Thematic Maps）
 
 - **攝影 & 視覺 Photography & Visual**
-  - 風景攝影、商品攝影、~~搜集攝影器材~~
+  - 風景攝影、商品攝影、~~搜集攝影器材（Nikon 派）~~
   - Adobe Photoshop / Lightroom
   - Adobe Illustrator：基本向量繪圖與簡易視覺稿製作
-  - Nikon 派（但歡迎各路系統信徒來切磋XD）
   
 - **其他**
   - 會迷路的不是我，是 Google Maps（？）  
@@ -70,16 +73,20 @@
   - Front-end：Vue 3 + Pinia + D3.js + TailwindCSS
   - Back-end：Node.js + Express + SQLite + ChatGPT
   - Repo：https://github.com/quanting56/my-stock-map
-  - Demo：https://my-stock-map-production.up.railway.app
+  - Demo：
+    https://my-stock-map-production.up.railway.app 、  
+    https://quanting56.github.io/my-stock-map/ （靜態備份 Demo）
+
 
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- - **[其他 Vue 重構中的網站（WIP）]**  
   把舊有的靜態網站改寫成 Vue 元件化架構，整理成可維護的前端專案。  -->
